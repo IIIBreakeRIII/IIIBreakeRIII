@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_dev.paul_/"&>
 </a>
 <a href="https://www.discordapp.com/users/IIIBreakeRIII">
-<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.discordapp.com/users/IIIBreakeRIII">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discordapp.com/users/IIIBreakeRIII">
 </a> 
 </div>
