@@ -30,6 +30,12 @@
 <a href="https://www.discordapp.com/users/IIIBreakeRIII">
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discordapp.com/users/IIIBreakeRIII">
 </a> 
+<a href="mailto:ryu990305@icloud.com">
+<img src="https://img.shields.io/badge/icloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white&link==mailto:ryu990305@icloud.com">
+</a>
+<a href="mailto:ryu990305@gmail.com">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link==mailto:ryu990305@gmail.com">
+</a> 
 </div>
 
 #
