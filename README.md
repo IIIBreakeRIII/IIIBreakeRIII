@@ -2,9 +2,9 @@
 #### 🧐 Introduce About Me
 
 * 🇰🇷 | Based In Korea
-* 🧑🏻‍💻 | Front-End Developer
+* 💻 | Front-End Developer
 * 📱 | Mobile Application Developer
-* 🇰🇷 | Korean, 🇺🇸 | English
+* Language | Korean, English
 
 #### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
