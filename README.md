@@ -4,7 +4,7 @@
 * 🇰🇷 | Based In Korea
 * 💻 | Front-End Developer
 * 📱 | Mobile Application Developer
-* Language | Korean, English
+* Korean, English
 
 #### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
