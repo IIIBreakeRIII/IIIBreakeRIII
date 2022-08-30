@@ -13,6 +13,7 @@
 * 🇰🇷 | Based In Korea
 * 💻 | Front-End Developer
 * 📱 | Mobile Application Developer
+* 📷 | Love Photography
 * Korean, English
 
 #
