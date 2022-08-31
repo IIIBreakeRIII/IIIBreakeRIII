@@ -10,7 +10,7 @@
 
 #### 🧐 Introduce About Me
 
-* Hyeonso Ryu A.K.A Paul
+* Hyeonso Ryu, A.K.A Paul
 * 🇰🇷 | Based In Korea
 * 💻 | Front-End Developer
 * 📱 | Mobile Application Developer
