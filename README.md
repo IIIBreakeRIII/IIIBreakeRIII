@@ -27,11 +27,14 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api?username=IIIBreakeRIII&show_icons=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIIIBreakeRIII&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api?username=IIIBreakeRIII&show_icons=true)  
 [![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IIIBreakeRIII&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/IIIBreakeRIII)
 
-#  
-  
+#
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryu990305)](https://solved.ac/백준아이디/)
+#
+
 <h4> 📞 Contact 📞 </h4>
 <a href="https://www.instagram.com/_dev.paul_/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_dev.paul_/"&>
