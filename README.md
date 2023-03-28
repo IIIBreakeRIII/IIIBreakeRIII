@@ -47,7 +47,7 @@
 </a>
 <a href="mailto:ryu990305@gmail.com">
 <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link==mailto:ryu990305@gmail.com">
-</a> 
+</a>
 </div>
 
 #
