@@ -19,6 +19,10 @@
 
 #
 
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+
+#
+
 <div align="center">
 <h4> 🛠 Language & Tech 🛠 </h4>
 
@@ -32,7 +36,7 @@
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/nvim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIIIBreakeRIII&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api?username=IIIBreakeRIII&show_icons=true)  
+<!-- ![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api?username=IIIBreakeRIII&show_icons=true) -->  
 [![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IIIBreakeRIII&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/IIIBreakeRIII)
   
 #
@@ -53,9 +57,5 @@
 <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link==mailto:ryu990305@gmail.com">
 </a>
 </div>
-
-#
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 #
