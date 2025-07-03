@@ -2,10 +2,6 @@
 <h1>🔥 Welcome! This is Dev. Paul! 🔥</h1>
 </div>
 
-<div align="center">
-<img width="100%" src="https://github.com/IIIBreakeRIII/Programmers/assets/89850286/1f40dedd-f082-4fe5-bc00-3ff0a5d00e26"/>
-</div>
-
 #### 🧐 Introduce About Me
 
 * Hyeonso Ryu, A.K.A Paul
@@ -14,10 +10,6 @@
 * 📱 | Mobile Application Developer
 * 📷 | Love Photography
 * Korean, English
-
-#
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 #
 
