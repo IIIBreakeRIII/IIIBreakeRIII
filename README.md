@@ -1,15 +1,20 @@
 <div align="center">
-<h1>🔥 Welcome! This is Dev. Paul! 🔥</h1>
+<h1>🔥 Welcome! This is Dev/ Paul! 🔥</h1>
 </div>
 
 #### 🧐 Introduce About Me
 
-* Hyeonso Ryu, A.K.A Paul
+* Hyeonso Ryu, A.K.A Dev/ Paul
 * 🇰🇷 | Based In Korea
 * 💻 | Front-End Developer
 * 📱 | Mobile Application Developer
 * 📷 | Love Photography
 * Korean, English
+
+<div align="center">
+More about me, Please visit my Personal Website.<br/>
+<a href="https://devpaul.dev"><img src="https://img.shields.io/badge//devpaul.dev/-9FF297" /></a>
+</div>
 
 #
 
