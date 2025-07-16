@@ -16,9 +16,14 @@ More about me, Please visit my Personal Website.<br/>
 <a href="https://devpaul.dev"><img src="https://img.shields.io/badge//devpaul.dev/-9FF297" /></a>
 </div>
 
-#
+<br>
 
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=IIIBreakeRIII&style=for-the-badge&color=lightgrey)
+  
+#
+
 <h4> 🛠 Language & Tech 🛠 </h4>
 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
@@ -26,18 +31,9 @@ More about me, Please visit my Personal Website.<br/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-![](https://komarev.com/ghpvc/?username=IIIBreakeRIII&style=for-the-badge&color=lightgrey)
-
 <div align="center">
 <h4> 🛠 Editor & IDE 🛠 </h4>
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/nvim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  
-
-<!-- ![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api?username=IIIBreakeRIII&show_icons=true) -->  
-[![IIIBreakeRIII's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IIIBreakeRIII&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/IIIBreakeRIII)
-  
-#
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryu990305)](https://solved.ac/백준아이디/)
-#
 
 <h4> 📞 Contact 📞 </h4>
 <a href="https://www.instagram.com/_dev.paul_/">
